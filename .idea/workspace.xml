@@ -26,12 +26,12 @@
     &quot;assignee&quot;: &quot;dsmlanu&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/dsmlanu/ml-apps.git&quot;,
-    &quot;accountId&quot;: &quot;1d840847-f3b5-410d-8f05-b3bfd4290679&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dsmlanu/ML-Apps_New.git",
+    "accountId": "1d840847-f3b5-410d-8f05-b3bfd4290679"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
